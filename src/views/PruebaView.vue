@@ -3,7 +3,7 @@
         Soy una vista de prueba
     </p>
     <router-link to="/">
-        <button>Presionar para ir a home</button>
+        <v-btn>Regresar</v-btn>
     </router-link>
 </template>
 <style>

@@ -3,9 +3,9 @@
         Saludos terricolas
     </p>
     <router-link to="/Prueba">
-        <button>Presionar para ir a pruebas</button>
+        <v-btn>Botones</v-btn>
     </router-link>
-</template>
+    </template>
 <script setup>
 
 </script>
@@ -14,7 +14,5 @@
     color: greenyellow;
 }
 
-body {
-    background-color: black;
-}
+body {background-color: black;}
 </style>
